@@ -1,4 +1,4 @@
-# Prediction using Supervised ML: [Detailed Documentation][3] 
+# Prediction using Supervised ML: [R-pubs][3] 
 &emsp;The task aims to predict the percentage of a student based on the number of study hours. It involves building a simple regression model with two variables. I used R programming to achieve this task. 
 
 | Id | Table of Contents                 |
