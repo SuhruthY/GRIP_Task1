@@ -9,7 +9,7 @@
 | 4  | References                        |
 
 ## Overview
-&emsp;Each observation of the dataset consisting 25 tuples about no of hours a one spent studying and one's percentage score. We can build a simple linear regression using the dependent and independent variables. 
+&emsp;Each observation of the dataset consisting a tuple about no of hours a one spent studying and one's percentage score. We can build a simple linear regression using the dependent and independent variables. 
 
 ## Procedure
 &emsp;Package like [rio][1] and [e1071][2] are used. Used different visualizations before you jumping to modeling. Build the model using built-in R functions and evaluated using various metrics such as R-squared, Adjusted R Squared, P-value, and measuring the goodness-of-fit by AIC and BIC.
