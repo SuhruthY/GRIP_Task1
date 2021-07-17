@@ -7,6 +7,7 @@
 | 2  | Procedure                         |
 | 3  | Conclusion                        |
 | 4  | References                        |
+
 ## Overview
 &emsp;Each observation of the dataset consisting 25 tuples about no of hours a one spent studying and one's percentage score. We can build a simple linear regression using the dependent and independent variables. 
 
