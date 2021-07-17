@@ -8,7 +8,7 @@
 &emsp;Package like [rio][1] and [e1071][2] are used. Used different visualizations before you jumping to modeling. Build the model using built-in R functions and evaluated using various metrics such as R-squared, Adjusted R Squared, P-value, and measuring the goodness-of-fit by AIC and BIC.
 
 ## Conclusion
-&emps;Some things you can explore are imputing more features such as minutes, seconds. Maybe there could be a different trend. You can also try other regression models.
+&emsp;Some things you can explore are imputing more features such as minutes, seconds. Maybe there could be a different trend. You can also try other regression models.
 
 ## References
 - [R basics by Statistical tools for high-throughput data analysis(STHDA)](http://www.sthda.com/english/wiki/r-basics-quick-and-easy)
