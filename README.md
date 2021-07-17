@@ -22,7 +22,6 @@
 - [An introduction to simple linear regression by Rebecca Bevans,Scribbr](https://www.scribbr.com/statistics/simple-linear-regression/)
 - [5 Types of Regression Analysis And When To Use Them by Appier](https://www.appier.com/blog/5-types-of-regression-analysis-and-when-to-use-them/)
 - [7 effective ways to handle small data by by Kateryna Koidan, hackernoon](https://hackernoon.com/7-effective-ways-to-deal-with-a-small-dataset-2gyl407s)
-
 - [R Programming Tutorial - Learn the Basics of Statistical Computing by Freecodecamp](https://youtu.be/_V8eKsto3Ug)
 
 [1]: https://cran.r-project.org/web/packages/rio/index.html
